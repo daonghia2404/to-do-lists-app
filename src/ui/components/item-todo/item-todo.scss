@@ -1,0 +1,46 @@
+.item-todo {
+  font-size: 12px;
+  transition: 0.3s ease;
+  display: flex;
+  align-items: center;
+  position: relative;
+  color: #000;
+  margin-bottom: 20px;
+
+  img {
+    transition: 0.3s ease;
+    width: 20px;
+    &:hover {
+      background: rgba(0, 0, 0, 0.1);
+      border-radius: 50%;
+      padding: 3px;
+    }
+  }
+
+  .icon-check {
+    cursor: pointer;
+    margin-right: 15px;
+  }
+
+  .icon-trash {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+
+  p {
+    transition: 0.3s ease;
+    font-weight: 600;
+    line-height: 1;
+  }
+
+  &.active {
+    text-decoration: line-through;
+
+    p {
+      opacity: 0.3;
+    }
+  }
+}

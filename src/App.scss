@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #35d388 !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.App {
+  position: relative;
+  padding-top: 40px;
+  width: 300px;
+  height: 550px;
+  border-radius: 40px;
+  margin: 0 auto;
+  background: #fff;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+  &:before {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    background: #fbfbfb;
+    content: "";
+    border-radius: 30px;
+  }
+  &:after {
+    position: absolute;
+    content: "";
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fff;
+    width: 55%;
+    height: 20px;
+    top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  main {
+    position: relative;
+    padding: 0 30px 20px 30px;
+  }
+  .plus-icon {
+    position: absolute !important;
+    right: 20px;
+    top: 50px;
+    z-index: 2;
+  }
+}
+.rs-modal {
+  @media (max-width: 480px) {
+    width: 90% !important;
+    margin: 0 auto;
+  }
+}
