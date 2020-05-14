@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/daonghia2404/to-do-lists-app/precache-manifest.7595f38968d92ce77eb5114f2cfde925.js"
+  "/daonghia2404/to-do-lists-app/precache-manifest.056cf459a94e098968aff0b22171214e.js"
 );
 
 self.addEventListener('message', (event) => {

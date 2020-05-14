@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8d3a067d33f097a98c26fc7bc0ac5df",
+    "revision": "a9adb279c3372b6f253b94107f8d2fe0",
     "url": "/daonghia2404/to-do-lists-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daonghia2404/to-do-lists-app/static/css/2.aa9cacd8.chunk.css"
   },
   {
-    "revision": "6d1d2e4680aae1b7bd0d",
-    "url": "/daonghia2404/to-do-lists-app/static/css/main.6a283a1b.chunk.css"
+    "revision": "652ba664fdd0c3be0769",
+    "url": "/daonghia2404/to-do-lists-app/static/css/main.b75efe4f.chunk.css"
   },
   {
     "revision": "34e662b1ad6019c72333",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daonghia2404/to-do-lists-app/static/js/2.eacbb8b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d1d2e4680aae1b7bd0d",
-    "url": "/daonghia2404/to-do-lists-app/static/js/main.88cc93af.chunk.js"
+    "revision": "652ba664fdd0c3be0769",
+    "url": "/daonghia2404/to-do-lists-app/static/js/main.8a1b8ea8.chunk.js"
   },
   {
     "revision": "597787a592aec3b98ddd",
