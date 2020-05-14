@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/daonghia2404/to-do-lists-app/static/css/main.b75efe4f.chunk.css",
-    "main.js": "/daonghia2404/to-do-lists-app/static/js/main.8a1b8ea8.chunk.js",
-    "main.js.map": "/daonghia2404/to-do-lists-app/static/js/main.8a1b8ea8.chunk.js.map",
-    "runtime-main.js": "/daonghia2404/to-do-lists-app/static/js/runtime-main.00ff1078.js",
-    "runtime-main.js.map": "/daonghia2404/to-do-lists-app/static/js/runtime-main.00ff1078.js.map",
-    "static/css/2.aa9cacd8.chunk.css": "/daonghia2404/to-do-lists-app/static/css/2.aa9cacd8.chunk.css",
-    "static/js/2.eacbb8b7.chunk.js": "/daonghia2404/to-do-lists-app/static/js/2.eacbb8b7.chunk.js",
-    "static/js/2.eacbb8b7.chunk.js.map": "/daonghia2404/to-do-lists-app/static/js/2.eacbb8b7.chunk.js.map",
-    "index.html": "/daonghia2404/to-do-lists-app/index.html",
-    "precache-manifest.056cf459a94e098968aff0b22171214e.js": "/daonghia2404/to-do-lists-app/precache-manifest.056cf459a94e098968aff0b22171214e.js",
-    "service-worker.js": "/daonghia2404/to-do-lists-app/service-worker.js",
-    "static/css/2.aa9cacd8.chunk.css.map": "/daonghia2404/to-do-lists-app/static/css/2.aa9cacd8.chunk.css.map",
-    "static/css/main.b75efe4f.chunk.css.map": "/daonghia2404/to-do-lists-app/static/css/main.b75efe4f.chunk.css.map",
-    "static/js/2.eacbb8b7.chunk.js.LICENSE.txt": "/daonghia2404/to-do-lists-app/static/js/2.eacbb8b7.chunk.js.LICENSE.txt",
-    "static/media/add.svg": "/daonghia2404/to-do-lists-app/static/media/add.9bd8a96e.svg",
-    "static/media/check-checked.svg": "/daonghia2404/to-do-lists-app/static/media/check-checked.28754f7a.svg",
-    "static/media/check.svg": "/daonghia2404/to-do-lists-app/static/media/check.431f6650.svg",
-    "static/media/trash.svg": "/daonghia2404/to-do-lists-app/static/media/trash.6da0dc5a.svg"
+    "main.css": "./static/css/main.b75efe4f.chunk.css",
+    "main.js": "./static/js/main.fa25e100.chunk.js",
+    "main.js.map": "./static/js/main.fa25e100.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4f8e16d7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4f8e16d7.js.map",
+    "static/css/2.aa9cacd8.chunk.css": "./static/css/2.aa9cacd8.chunk.css",
+    "static/js/2.b88510b2.chunk.js": "./static/js/2.b88510b2.chunk.js",
+    "static/js/2.b88510b2.chunk.js.map": "./static/js/2.b88510b2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8f958154a8367027a615ff571d801b6f.js": "./precache-manifest.8f958154a8367027a615ff571d801b6f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.aa9cacd8.chunk.css.map": "./static/css/2.aa9cacd8.chunk.css.map",
+    "static/css/main.b75efe4f.chunk.css.map": "./static/css/main.b75efe4f.chunk.css.map",
+    "static/js/2.b88510b2.chunk.js.LICENSE.txt": "./static/js/2.b88510b2.chunk.js.LICENSE.txt",
+    "static/media/add.svg": "./static/media/add.9bd8a96e.svg",
+    "static/media/check-checked.svg": "./static/media/check-checked.28754f7a.svg",
+    "static/media/check.svg": "./static/media/check.431f6650.svg",
+    "static/media/trash.svg": "./static/media/trash.6da0dc5a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00ff1078.js",
+    "static/js/runtime-main.4f8e16d7.js",
     "static/css/2.aa9cacd8.chunk.css",
-    "static/js/2.eacbb8b7.chunk.js",
+    "static/js/2.b88510b2.chunk.js",
     "static/css/main.b75efe4f.chunk.css",
-    "static/js/main.8a1b8ea8.chunk.js"
+    "static/js/main.fa25e100.chunk.js"
   ]
 }
